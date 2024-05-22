@@ -22,7 +22,6 @@ struct Pie: Shape {
             x: center.x * radius * cos(startAngle.radians),
             y: center.y * radius * sin(startAngle.radians)
         )
-        
         var p = Path()
         p.move(to: center)
         p.addLine(to: start)
@@ -31,10 +30,11 @@ struct Pie: Shape {
             radius: radius,
             startAngle: startAngle,
             endAngle: endAngle,
-            clockwise: !clockwise)
+            clockwise: !clockwise
+        )
         p.addLine(to: center)
-        
-        return p 
+
+        return p
     }
     
      
