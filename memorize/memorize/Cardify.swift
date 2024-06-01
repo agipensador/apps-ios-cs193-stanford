@@ -16,7 +16,7 @@ struct Cardify: ViewModifier {
                 .background(base.fill(.white) )
                 .overlay(content)
             .opacity(isFaceUp ? 1 : 0)
-            base.fill().opacity( isFaceUp ? 0 : 1)
+            base.fill().opacity(isFaceUp ? 0 : 1)
         }
     }
     

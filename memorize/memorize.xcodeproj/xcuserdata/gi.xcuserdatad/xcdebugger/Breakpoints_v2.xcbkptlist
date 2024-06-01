@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16F9FE9A-CB7B-4A9A-B3D5-908353CD8177"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DDEB79A-EA36-4DF4-9C60-0F5A095C8613"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memorize/EmojiMemoryGameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "EmojiMemoryGameView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "8DDEB79A-EA36-4DF4-9C60-0F5A095C8613 - 3ac98aefae2d8b6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memorize.EmojiMemoryGameView.init() -&gt; memorize.EmojiMemoryGameView"
+                  moduleName = "memorize"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gi/development/apps-ios-cs193-stanford/memorize/memorize/EmojiMemoryGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "8DDEB79A-EA36-4DF4-9C60-0F5A095C8613 - e0ae6e6b72bcacc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memorize.EmojiMemoryGameView.init(viewModel: memorize.ViewModelEmojiMemoryGame) -&gt; memorize.EmojiMemoryGameView"
+                  moduleName = "memorize"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gi/development/apps-ios-cs193-stanford/memorize/memorize/EmojiMemoryGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21337145-B6AB-4020-813F-A6B2D1B38714"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memorize/EmojiMemoryGameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36C9C15C-4FE9-41BE-9AA9-A5444DAE6155"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memorize/AspectVGrid.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "gridWidthThatFits(count:size:atAspectRatio:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
